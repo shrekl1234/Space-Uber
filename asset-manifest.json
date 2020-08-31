@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Space-Uber/static/css/main.29c7cbc8.chunk.css",
+    "main.js": "/Space-Uber/static/js/main.35efb8d8.chunk.js",
+    "main.js.map": "/Space-Uber/static/js/main.35efb8d8.chunk.js.map",
+    "runtime-main.js": "/Space-Uber/static/js/runtime-main.6c97c2c1.js",
+    "runtime-main.js.map": "/Space-Uber/static/js/runtime-main.6c97c2c1.js.map",
+    "static/js/2.32e34bc9.chunk.js": "/Space-Uber/static/js/2.32e34bc9.chunk.js",
+    "static/js/2.32e34bc9.chunk.js.map": "/Space-Uber/static/js/2.32e34bc9.chunk.js.map",
+    "index.html": "/Space-Uber/index.html",
+    "precache-manifest.cda365804a57654bc85facb13647f34e.js": "/Space-Uber/precache-manifest.cda365804a57654bc85facb13647f34e.js",
+    "service-worker.js": "/Space-Uber/service-worker.js",
+    "static/css/main.29c7cbc8.chunk.css.map": "/Space-Uber/static/css/main.29c7cbc8.chunk.css.map",
+    "static/js/2.32e34bc9.chunk.js.LICENSE.txt": "/Space-Uber/static/js/2.32e34bc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c97c2c1.js",
+    "static/js/2.32e34bc9.chunk.js",
+    "static/css/main.29c7cbc8.chunk.css",
+    "static/js/main.35efb8d8.chunk.js"
+  ]
+}
