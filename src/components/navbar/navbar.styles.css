@@ -1,0 +1,39 @@
+.navbar-brand{
+    width: 30%;
+    font-weight: 700;
+    color: #2B2C6E;
+}
+
+.navbar-nav{
+    width: 33%;
+}
+
+.navGap{
+    text-align: center;
+    width: 34%;
+}
+
+.navbar{
+    padding: 40px 80px;
+}
+
+.nav-link{
+    font-weight: 500;
+   color: #2B2C6E;
+   margin: auto 10px;
+}
+
+.bottomBorder{
+    border-radius: 10px ;
+    height: 5px;
+    width: 20%;
+    border-bottom-color: rgb(167, 187, 240);
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    margin: 0 auto;
+}
+
+.activeText{
+    color: rgb(167, 187, 240);
+    display: inline;
+}
